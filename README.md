@@ -20,9 +20,21 @@ Shipment Tracker is a Laravel-based web application for managing and tracking sh
 - Node.js & npm (for frontend assets, optional)
 
 ## Installation
-1. Clone the repository:
-   git clone <your-repo-url>
-   cd shipment-tracker
+
+1. Download the project using Git:
+
+    - Ensure you have [Git](https://git-scm.com/downloads) installed on your system.
+    - Open your terminal or command prompt.
+    - Run the following commands:
+
+       git clone <your-repo-url>
+       gh repo clone ShifaMemon/shipment-tracker
+       cd shipment-tracker
+
+    Replace `<your-repo-url>` with the actual repository URL, e.g.:
+
+       git clone https://github.com/ShifaMemon/shipment-tracker.git
+       cd shipment-tracker
 
 2. Install PHP dependencies:
    composer install
