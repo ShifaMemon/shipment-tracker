@@ -8,7 +8,6 @@ use Yajra\DataTables\Facades\DataTables;
 
 class ShipmentController extends Controller
 {
-
     private function isDate($value)
     {
         try {
